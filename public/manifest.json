@@ -1,0 +1,11 @@
+{
+  "name": "SPPG Manager",
+  "short_name": "SPPG",
+  "description": "Aplikasi manajemen dapur SPPG untuk Program Makan Bergizi Gratis.",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": []
+}
